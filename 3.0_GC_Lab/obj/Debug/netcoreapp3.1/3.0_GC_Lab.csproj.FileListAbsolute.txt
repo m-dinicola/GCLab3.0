@@ -1,0 +1,13 @@
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\obj\Debug\netcoreapp3.1\3.0_GC_Lab.csprojAssemblyReference.cache
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\obj\Debug\netcoreapp3.1\3.0_GC_Lab.AssemblyInfoInputs.cache
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\obj\Debug\netcoreapp3.1\3.0_GC_Lab.AssemblyInfo.cs
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\obj\Debug\netcoreapp3.1\3.0_GC_Lab.csproj.CoreCompileInputs.cache
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\bin\Debug\netcoreapp3.1\3.0_GC_Lab.exe
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\bin\Debug\netcoreapp3.1\3.0_GC_Lab.deps.json
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\bin\Debug\netcoreapp3.1\3.0_GC_Lab.runtimeconfig.json
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\bin\Debug\netcoreapp3.1\3.0_GC_Lab.runtimeconfig.dev.json
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\bin\Debug\netcoreapp3.1\3.0_GC_Lab.dll
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\bin\Debug\netcoreapp3.1\3.0_GC_Lab.pdb
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\obj\Debug\netcoreapp3.1\3.0_GC_Lab.dll
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\obj\Debug\netcoreapp3.1\3.0_GC_Lab.pdb
+U:\Mario\source\repos\3.0_GC_Lab\3.0_GC_Lab\obj\Debug\netcoreapp3.1\3.0_GC_Lab.genruntimeconfig.cache
